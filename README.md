@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obuleenyam
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...Data science 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Data science,  coding 
+- 💞️ I’m looking to collaborate on ... curiosity Xploring 
 - 📫 How to reach me ...mikeenyam@gmail.com 
 
 <!---
